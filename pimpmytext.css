@@ -26,3 +26,12 @@ textarea {
 	font-family: monospace;
 	font-size: 12pt;
 }
+
+.textStyled {
+	font-weight: bold;
+	color: green;
+	text-decoration: underline;
+	font-style: italic;
+	letter-spacing: 5px;
+}
+
